@@ -1,0 +1,20 @@
+tr,td,th,table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td{
+    width: 300px;
+    text-align: center;
+    background-color: white;
+}
+th{
+    text-decoration: underline;
+    background-color: aqua;
+}
+.form{
+    background-color: white;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
